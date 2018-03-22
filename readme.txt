@@ -6,4 +6,4 @@
 - Copie a pasta do projeto para este local: C:/wamp64/www/
 - Acesse no navegador com este endereço: http://localhost/"nome da pasta do projeto"
 
-Quaalquer coisa é só enviar um email para: contato@alissondias.com
+Qualquer coisa é só enviar um email para: contato@alissondias.com
